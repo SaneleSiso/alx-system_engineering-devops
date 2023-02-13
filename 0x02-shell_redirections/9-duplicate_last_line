@@ -1,2 +1,2 @@
 #!/bin/bash
-last --lines=1 iact >> iacta
+last --lines=1 iacta >> iacta
