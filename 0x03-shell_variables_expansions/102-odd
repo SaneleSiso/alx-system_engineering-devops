@@ -1,2 +1,2 @@
 #!/bin/bash
-while read -r line; do printf '%s\n' "$line"; read -r line; done
+cat -n | cut -b 6- | grep ^[13579] | cut -f2
