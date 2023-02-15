@@ -1,4 +1,5 @@
 This directory contains scripts about shell navigation. All scripts are executable.
+
 0. A script that prints the absolute path name of the current working directory.
 1. A script that displays the contents list of your current directory.
 2. A script that changes the current working directory to the user's home directory.
